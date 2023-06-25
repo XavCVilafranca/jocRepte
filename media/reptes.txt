@@ -1,0 +1,6 @@
+Primera lletra de l'abecedari grec[el seu nom amb espanyol]:alpha:20
+Sumam 77 a 33 i dona [Escriu el resultat amb nombres]:110:20
+4x4?:todoterreno:50
+En quin continent es troba Nepal:asia:30
+Si feim un examen amb en Joan dia 24 de Gener del 2023, quin any ens el donara??:2023:30
+5! ?:120:50
